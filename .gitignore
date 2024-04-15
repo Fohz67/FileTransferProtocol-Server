@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+Dockerfile
+*.o
+*.out
+*.a
+*.so
+myftp
